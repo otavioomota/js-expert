@@ -1,0 +1,4 @@
+the user should have name,age,email
+the user should have a unique email
+
+
